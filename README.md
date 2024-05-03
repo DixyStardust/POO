@@ -60,15 +60,15 @@ Versiones 📌
 #
 Licencia 📄
 Este proyecto está bajo mi Licencia ©️
-#
+
 (justificada con toda la frustración que genera este universo que aún no comprendo...y las lágrimas de una "primera vez" jaja) ®️
 #
 😊 holis programador! recuerda: siempre puedes copiar pero no robar, agradece si el código te sirvió!!
-#
+
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
-#
+
 (Contacta con la autora para detalles)
-#
+
 Expresiones de Gratitud 🎁
 Comenta a otros sobre este proyecto 📢
 Da las gracias públicamente 🤓!!
