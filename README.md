@@ -1,39 +1,32 @@
 # POO
-#
+
 Soy estudiante del CFPN°6 del trayecto formativo "Programador" perteneciente a la República Argentina 🇦🇷 🇦🇷
 Este proyecto lo realizo en 2024 para la entrega del trabajo de "Programación Orientada a Objetos"
 
 
-Comenzando ✨
+# Comenzando ✨
 
 
-
-Pre-requisitos 📋
-#
+# Pre-requisitos 📋
 
 
-Instalación 🔧
+#Instalación 🔧
 (No requiere instalación)
-#
 
 
-Ejecutando las pruebas ⚙️
+# Ejecutando las pruebas ⚙️
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
-#
 
 
-Despliegue 📦
+# Despliegue 📦
 sin definir
-#
 
 
-Construido con 🛠️
+# Construido con 🛠️
 JAVA
-#
 
 
-Versiones 📌
-
+# Versiones 📌
 
 
 ## **Autora** ✒️
