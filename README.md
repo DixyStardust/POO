@@ -53,6 +53,7 @@ JAVA
 
 # Licencia 📄
 Este proyecto está bajo mi Licencia ©️
+
 (justificada con toda la frustración que genera este universo que aún no comprendo...y las lágrimas de una "primera vez" jaja) ®️
 
 ##
