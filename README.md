@@ -1,6 +1,5 @@
 # POO
 #
-CFPN6
 Soy estudiante del CFPN°6 del trayecto formativo "Programador" perteneciente a la República Argentina 🇦🇷 🇦🇷
 Este proyecto lo realizo en 2024 para la entrega del trabajo de "Programación Orientada a Objetos"
 
